@@ -1,0 +1,3 @@
+```text
+# O projeto utiliza apenas a biblioteca padrão do Python.
+# Nenhuma instalação de dependências externas é necessária.
